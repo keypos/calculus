@@ -14,13 +14,14 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 </head>
 
 <nav class="nav">
     <div class="logo">∫ Calctasti<a>+</a>c</div>
     <ul class="nav-links">
         <li class="dropdown">
-            <a href="index.php" class="dropbtn">Home</a>
+            <a href="index.php" class="dropbtn"><span class="material-symbols-outlined" style="vertical-align: middle; display: inline-block; height: 20px; line-height: 14px; padding-right:6px;">home</span>Home</a>
         </li>
         <li class="dropdown">
             <a href="differentiation.php" class="dropbtn">Differentiation</a>
