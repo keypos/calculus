@@ -14,5 +14,6 @@
     derivative of the general function y = f(x) can be expressed as:</p>
     <p>$$ \frac{dy}{dx} \ \text{or} \ \frac{d}{dx} y \ \text{or} \ f'(x) \ \text{or} \ \frac{d}{dx} f(x) \ \text{or} \ y' $$</p>
     <p>It is important to note that  \( \frac{dy}{dx} \) does not represent a fraction such that you can cancel out terms in the numerator or denominator.</p>
+    <b>This video will provide a further explanation on differential notation</b><br><br>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/iOXZzQfUJv8?si=3xPvO-ddyG8vylAy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>

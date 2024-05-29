@@ -41,17 +41,13 @@
         <li class="dropdown">
             <a href="integration.php" class="dropbtn">Integration</a>
             <div class="dropdown-content">
-                <a href="#">Sub Link 1</a>
-                <a href="#">Sub Link 2</a>
-                <a href="#">Sub Link 3</a>
+                <a href="./integration.php">Integration</a>
             </div>
         </li>
         <li class="dropdown">
             <a href="advanced_calculus.php" class="dropbtn">Advanced Calculus</a>
             <div class="dropdown-content">
                 <a href="substitution_rule.php">Substitution Rule</a>
-                <a href="#">Link 2</a>
-                <a href="#">Link 3</a>
             </div>
         </li>
         <li>

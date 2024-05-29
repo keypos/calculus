@@ -1,6 +1,8 @@
 <?php require('header.php')?>
 
 <div class="content">
+    <h1>Introduction to Integration</h1>
+    <iframe src="https://www.desmos.com/calculator/eu0tcnfrvn?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe>
     <p>First lets start with a definition. Lets define <b>d</b> as a little bit of.</p>
     <b>d “a little bit of”</b>
     <p>We can represent an infinitesimally small change in <b>x</b> with <b>dx</b>. Thus <b>dx</b> means a little bit of <b>x</b> and <b>du</b> means a little bit of <b>u</b>.<br>
