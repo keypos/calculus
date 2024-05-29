@@ -11,9 +11,9 @@
         $password = $_POST["password"];
         try {
             $conn = get_conn();
-            $sql = "SELECT first_name, last_name FROM users WHERE user_name = ?";
+            $sql = "SELECT first_name, last_name FROM users WHERE user_name = ? AND password = ?";
             $stmt = $conn->prepare($sql);
-            $stmt->bind_param("s",$user_name);
+            $stmt->bind_param("ss", $user_name, $password);
             $stmt->execute();
             $stmt->store_result();
             $stmt->bind_result($first_name,$last_name);

@@ -41,7 +41,7 @@
         <li class="dropdown">
             <a href="integration.php" class="dropbtn">Integration</a>
             <div class="dropdown-content">
-                <a href="./integration.php">Integration</a>
+                <a href="./integration.php">Introduction</a>
             </div>
         </li>
         <li class="dropdown">
