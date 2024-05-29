@@ -7,12 +7,10 @@
     <p>The derivative of a function f(x) is defined as</p>
     <p>$$ f'(x) = \lim_{{h \to 0}} \frac{{f(x + h) - f(x)}}{h}, \, h \neq 0 $$</p>
     <p>There are rules for differentiation that are far more convenient than using the definition above. In general, you should only use the first principles approach above if you are asked to. Below are some examples on differentiation from first principles.</p>
-    <b>Example 1</b>
+    <b>Example 1:</b>
     <p>
-        If \( f(x) = x^2 \), find the derivative of \( f(x) \) from first principles.
-
-        Using first principles,
-
+        If \( f(x) = x^2 \), find the derivative of \( f(x) \) from first principles.<br><br>
+        <b>Solution:</b>
         \[
         f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}, \quad h \neq 0
         \]
