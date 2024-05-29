@@ -11,6 +11,8 @@
         </audio>
         <p style="margin-left: 10px; color: #777777; font-size: 18px;"> <span class="material-symbols-outlined">headphones</span>Listen to this content</p>
     </div><br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/v9WR7mKKLtM?si=eOhEvaJgCiwfA_d7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
+    <b>This video provides an introduction into the trapezoidal rule</b>
     <p>The trapezoidal rule is a numerical method for estimating the definite integral of a function. It approximates the region under the graph of the function as a series of trapezoids, which provides a way to calculate the integral when an analytical solution is difficult or impossible to obtain.</p>
     <p>The formula for the trapezoidal rule is given by:</p>
 
