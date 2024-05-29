@@ -3,6 +3,7 @@
 <div class="content">
     <h1>The Trapezoidal Rule</h1>
     <iframe src="https://www.desmos.com/calculator/dquf4xhbcr?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe><br><br>
+    <b>This animation shows the trapezoidal rule visualized</b><br><br>
     <div style="display: flex; align-items: center;">
         <audio controls>
             <source src="src/integration_trapezoidal.mp3" type="audio/mpeg">
