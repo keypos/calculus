@@ -10,11 +10,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" type="image/x-icon" href="./src/favicon.png">
     <title>Calctastic</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
 </head>
 
 <nav class="nav">
@@ -27,8 +31,8 @@
             <a href="differentiation.php" class="dropbtn">Differentiation</a>
             <div class="dropdown-content">
                 <a href="./differentiation.php">Introduction</a>
-                <a href="#">Sub Link 2</a>
-                <a href="#">Sub Link 3</a>
+                <a href="./first_principles.php">First Principles</a>
+                <a href="./differentiation_notation.php">Notation</a>
             </div>
         </li>
         <li class="dropdown">
