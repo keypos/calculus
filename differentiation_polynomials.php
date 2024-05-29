@@ -2,6 +2,13 @@
 
 <div class="content">
     <h1>Differentiating Polynomials</h1>
+    <div style="display: flex; align-items: center;">
+        <audio controls>
+            <source src="src/differentiation_polynomials.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <p style="margin-left: 10px; color: #777777; font-size: 18px;"> <span class="material-symbols-outlined">headphones</span>Listen to this content</p>
+    </div>
     <p>
         A polynomial function is a function that contains only non-negative integer powers of a variable such as a quadratic or a cubic function, e.g.  \( y = x^2 \) and  \( y = 3x^3 \), respectively.<br><br>
         Where \( y = ax^n \)

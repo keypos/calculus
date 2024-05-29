@@ -4,6 +4,13 @@
     <h1>Differentiation from First Principles</h1>
     <iframe src="https://www.desmos.com/calculator/8trxdol8fx?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe><br><br>
     <b>Play with this interactive graph to visualise differentition from first principles</b><br><br>
+    <div style="display: flex; align-items: center;">
+        <audio controls>
+            <source src="src/differentiation_first_principles.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <p style="margin-left: 10px; color: #777777; font-size: 18px;"> <span class="material-symbols-outlined">headphones</span>Listen to this content</p>
+    </div>
     <p>The derivative of a function f(x) is defined as</p>
     <p>$$ f'(x) = \lim_{{h \to 0}} \frac{{f(x + h) - f(x)}}{h}, \, h \neq 0 $$</p>
     <p>There are rules for differentiation that are far more convenient than using the definition above. In general, you should only use the first principles approach above if you are asked to. Below are some examples on differentiation from first principles.</p>

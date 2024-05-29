@@ -31,9 +31,11 @@
             <a href="differentiation.php" class="dropbtn">Differentiation</a>
             <div class="dropdown-content">
                 <a href="./differentiation.php">Introduction</a>
-                <a href="./first_principles.php">First Principles</a>
-                <a href="./polynomials.php">Polynomials</a>
+                <a href="./differentiation_first_principles.php">First Principles</a>
                 <a href="./differentiation_notation.php">Notation</a>
+                <a href="./differentiation_polynomials.php">Polynomials</a>
+                <a href="./differentiation_exponential.php">Exponentials</a>
+                <a href="./differentiation_logarithms.php">Logarithms</a>
             </div>
         </li>
         <li class="dropdown">
