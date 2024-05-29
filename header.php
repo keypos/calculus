@@ -26,7 +26,7 @@
         <li class="dropdown">
             <a href="differentiation.php" class="dropbtn">Differentiation</a>
             <div class="dropdown-content">
-                <a href="#">Sub Link 1</a>
+                <a href="./differentiation.php">Introduction</a>
                 <a href="#">Sub Link 2</a>
                 <a href="#">Sub Link 3</a>
             </div>

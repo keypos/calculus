@@ -17,10 +17,6 @@ img {
     padding: 32px;
 }
 
-audio {
-    padding: 16px;
-}
-
 .main {
     width: 100%;
     display: flex;
@@ -49,6 +45,13 @@ p {
 a {
     color:#6f5be3;
     font-weight: 300;
+}
+
+.material-symbols-outlined {
+    vertical-align: middle;
+    display: inline-block;
+    height: 30px;
+    padding-right: 6px;
 }
 
 .nav {
