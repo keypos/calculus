@@ -1,4 +1,4 @@
-* {
+p, a, .logo, b, h1, h2 {
     font-family: "Onest", serif;
 }
 
@@ -23,7 +23,7 @@ img {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    max-width: 512px;
+    max-width: 600px;
     padding-left: 30%;
     padding-bottom: 100px;
     text-align: center;
@@ -59,7 +59,7 @@ a {
     overflow: hidden;
     display: flex;
     align-items: center;
-    padding: 0 20px;
+    padding: 0 10px;
 }
 
 .nav .logo {
@@ -84,10 +84,6 @@ a {
 .nav ul.nav-logout {
     text-decoration: underline;
     justify-content: flex-end;
-}
-
-.nav ul li {
-    margin: 0 15px;
 }
 
 .nav ul li a {

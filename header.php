@@ -32,6 +32,7 @@
             <div class="dropdown-content">
                 <a href="./differentiation.php">Introduction</a>
                 <a href="./first_principles.php">First Principles</a>
+                <a href="./polynomials.php">Polynomials</a>
                 <a href="./differentiation_notation.php">Notation</a>
             </div>
         </li>
@@ -50,6 +51,9 @@
                 <a href="#">Link 2</a>
                 <a href="#">Link 3</a>
             </div>
+        </li>
+        <li>
+            <a href="practice_problems.php">Practice Problems</a>
         </li>
     </ul>
     <ul>
