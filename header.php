@@ -42,6 +42,7 @@
             <a href="integration.php" class="dropbtn">Integration</a>
             <div class="dropdown-content">
                 <a href="./integration.php">Introduction</a>
+                <a href="./integration_trapezoidal.php">Trapezoidal Rule</a>
             </div>
         </li>
         <li class="dropdown">
