@@ -56,7 +56,6 @@
     <p>This gives us an approximate value of 2.75 for the integral. With the actual value being \( \frac{8}{3} \).</p>
 
     <p><strong>Note:</strong> The accuracy of the trapezoidal rule improves as the number of subintervals \( n \) increases. It over estimates on concave up functions and under estimates on concave down functions.</p>
-    <b>Below is a visualization of why the trapezoidal rule over estimates on concave up functions and under estimates on concave down functions</b>
+    <b>Below is a visualization of why the trapezoidal rule over estimates on concave up functions and under estimates on concave down functions</b><br><br>
     <iframe src="https://www.desmos.com/calculator/p9clp5iy44?embed" width="410px" height="410px" style="border: 1px solid #ccc" frameborder=0></iframe><p class="copyright">Copyright © 2024 Desmos Studio, PBC</p>
-
 </div>
