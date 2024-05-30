@@ -2,17 +2,17 @@
 
 <div class="content">
     <h1>The Trapezoidal Rule</h1>
-    <iframe src="https://www.desmos.com/calculator/dquf4xhbcr?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe><br><br>
+    <iframe src="https://www.desmos.com/calculator/dquf4xhbcr?embed" width="410px" height="410px" style="border: 1px solid #ccc" frameborder=0></iframe><p class="copyright">Copyright © 2024 Desmos Studio, PBC</p>
     <b>This animation shows the trapezoidal rule visualized</b><br><br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/v9WR7mKKLtM?si=eOhEvaJgCiwfA_d7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><p class="copyright">Copyright © 2024 Eddie Woo, YouTube</p>
+    <b>This video provides an introduction into the trapezoidal rule</b><br><br>
     <div style="display: flex; align-items: center;">
         <audio controls>
             <source src="src/integration_trapezoidal.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
         <p style="margin-left: 10px; color: #777777; font-size: 18px;"> <span class="material-symbols-outlined">headphones</span>Listen to this content</p>
-    </div><br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/v9WR7mKKLtM?si=eOhEvaJgCiwfA_d7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
-    <b>This video provides an introduction into the trapezoidal rule</b>
+    </div>
     <p>The trapezoidal rule is a numerical method for estimating the definite integral of a function. It approximates the region under the graph of the function as a series of trapezoids, which provides a way to calculate the integral when an analytical solution is difficult or impossible to obtain.</p>
     <p>The formula for the trapezoidal rule is given by:</p>
 
@@ -56,5 +56,7 @@
     <p>This gives us an approximate value of 2.75 for the integral. With the actual value being \( \frac{8}{3} \).</p>
 
     <p><strong>Note:</strong> The accuracy of the trapezoidal rule improves as the number of subintervals \( n \) increases. It over estimates on concave up functions and under estimates on concave down functions.</p>
+    <b>Below is a visualization of why the trapezoidal rule over estimates on concave up functions and under estimates on concave down functions</b>
+    <iframe src="https://www.desmos.com/calculator/p9clp5iy44?embed" width="410px" height="410px" style="border: 1px solid #ccc" frameborder=0></iframe><p class="copyright">Copyright © 2024 Desmos Studio, PBC</p>
 
 </div>

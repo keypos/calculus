@@ -2,9 +2,9 @@
 
 <div class="content">
     <h1>Differentiation from First Principles</h1>
-    <iframe src="https://www.desmos.com/calculator/8trxdol8fx?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe><br><br>
+    <iframe src="https://www.desmos.com/calculator/zuuychzyp9?embed" width="50%" height="60%" style="border: 1px solid #ccc" frameborder=0></iframe><p class="copyright">Copyright © 2024 Desmos Studio, PBC</p>
     <b>Play with this interactive graph to visualize differentiation from first principles</b><br><br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/50Bda5VKbqA?si=ynS3h5N50AVX0trW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/50Bda5VKbqA?si=ynS3h5N50AVX0trW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><p class="copyright">Copyright © 2024 Eddie Woo, YouTube</p>
     <b>This video provides an explanation for the formula for first principle differentiation</b><br><br>
     <div style="display: flex; align-items: center;">
         <audio controls>

@@ -2,7 +2,7 @@
 
 <div class="content">
     <h1>Indefinite Integration</h1>
-    <iframe src="https://www.desmos.com/calculator/ta9fhewbip?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe><br><br>
+    <iframe src="https://www.desmos.com/calculator/ta9fhewbip?embed" width="410px" height="410px" style="border: 1px solid #ccc" frameborder=0></iframe><p class="copyright">Copyright © 2024 Desmos Studio, PBC</p>
     <b>Use this interactive graph to explore definite integrals and the area beneath them</b><br><br>
     <div style="display: flex; align-items: center;">
         <audio controls>

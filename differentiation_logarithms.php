@@ -44,5 +44,5 @@
     \]
     </p>
     <b>This graph shows the function f(x) and its derivative f'(x)</b>
-    <iframe src="https://www.desmos.com/calculator/ddwrjlumz2?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+    <iframe src="https://www.desmos.com/calculator/ddwrjlumz2?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe><p class="copyright">Copyright © 2024 Desmos Studio, PBC</p>
 </div>

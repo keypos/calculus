@@ -2,7 +2,7 @@
 
 <div class="content">
     <h1>Introduction to Integration</h1>
-    <iframe src="https://www.desmos.com/calculator/eu0tcnfrvn?embed" width="400" height="400" style="border: 1px solid #ccc" frameborder=0></iframe><br><br>
+    <iframe src="https://www.desmos.com/calculator/eu0tcnfrvn?embed" width="410px" height="410px" style="border: 1px solid #ccc" frameborder=0></iframe><p class="copyright">Copyright © 2024 Desmos Studio, PBC</p>
     <div style="display: flex; align-items: center;">
         <audio controls>
             <source src="src/integration.mp3" type="audio/mpeg">

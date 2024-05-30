@@ -13,8 +13,8 @@ li {
 
 .content {
     margin: 64px;
-    margin-left: 256px;
-    margin-right: 256px;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 img {
@@ -49,6 +49,11 @@ p {
 a {
     color:#6f5be3;
     font-weight: 300;
+}
+
+.copyright {
+    font-size: 14px;
+    color: #999999;
 }
 
 .material-symbols-outlined {
