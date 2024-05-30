@@ -28,7 +28,7 @@
             <a href="index.php" class="dropbtn"><span class="material-symbols-outlined" style="vertical-align: middle; display: inline-block; height: 20px; line-height: 14px; padding-right:6px;">home</span>Home</a>
         </li>
         <li class="dropdown">
-            <a href="differentiation.php" class="dropbtn">Differentiation</a>
+            <a class="dropbtn">Differentiation</a>
             <div class="dropdown-content">
                 <a href="./differentiation.php">Introduction</a>
                 <a href="./differentiation_first_principles.php">First Principles</a>
@@ -39,7 +39,7 @@
             </div>
         </li>
         <li class="dropdown">
-            <a href="integration.php" class="dropbtn">Integration</a>
+            <a class="dropbtn">Integration</a>
             <div class="dropdown-content">
                 <a href="./integration.php">Introduction</a>
                 <a href="./integration_trapezoidal.php">Trapezoidal Rule</a>
@@ -48,8 +48,9 @@
             </div>
         </li>
         <li class="dropdown">
-            <a href="advanced_calculus.php" class="dropbtn">Advanced Calculus</a>
+            <a class="dropbtn">Advanced Calculus</a>
             <div class="dropdown-content">
+                <a href="advanced_calculus.php">Introduction</a>
                 <a href="substitution_rule.php">Substitution Rule</a>
             </div>
         </li>
