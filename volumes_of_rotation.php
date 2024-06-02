@@ -3,6 +3,7 @@
 <div class="content">
     <h1>Volumes of Rotation</h1>
     <iframe src="https://www.desmos.com/calculator/feix60iliv?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe><p class="copyright">Copyright © 2024 Desmos Studio, PBC</p>
+    <b>This animation shows volumes of rotation visualized</b>
     <p>The ring method is a technique for finding the volume of a solid of revolution. It involves rotating a region around an axis and approximating the volume of the solid formed. This method is particularly useful when the region is bounded by a single function and the axis of rotation is one of the coordinate axes.</p>
     <h2>The Ring Method Formula</h2>
 <p>The formula for the volume of a solid of revolution using the ring method is given by:</p>

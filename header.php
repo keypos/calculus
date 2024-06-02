@@ -52,6 +52,7 @@
             <div class="dropdown-content">
                 <a href="advanced_calculus.php">Introduction</a>
                 <a href="substitution_rule.php">Substitution Rule</a>
+                <a href="volumes_of_rotation.php">Volumes of Rotation</a>
             </div>
         </li>
         <li>
