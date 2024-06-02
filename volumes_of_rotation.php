@@ -43,6 +43,7 @@
 </ul>
 
 <p>Thus, the volume of the solid formed by rotating the region under \( y = x^2 \) from \( x = 0 \) to \( x = 1 \) around the x-axis is \( \frac{\pi}{5} \).</p>
-
-
+<b>This diagram shows the ring method visualized</b><br>
+<img src="src\ring.svg">
+<p class="copyright">Copyright © 2024 Simon Fraser University</p>
 </div>
